@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.1.7.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <stateless4j.version>1.0</stateless4j.version>
         <jsr305.version>3.0.2</jsr305.version>
     </properties>
